@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Kiddomaze and I'm a Backend Developer</h3>
+<h3 align="left">Backend Developer</h3>
 
 ###
 
