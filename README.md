@@ -1,9 +1,6 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gzamxwbnlqOWE5NjllamMxMTIzOWVwaWYwdW5yYmxtOGdxeXl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.webp"  />
 
-
 <h1 align="center">hey there 👋</h1>
-
-##
 
 <p align="left">I'm Backend Developer from Hogwarts<br><br>⚡ In my free time I fight bears.</p>
 
