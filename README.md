@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">English or Spanish</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Backend Developer from Hogwarts<br><br>⚡ In my free time I fight bears.</p>
+<p align="left">I'm Backend Developer from Raccoon City<br><br>⚡ In my free time I fight bears.</p>
 
 ###
 
