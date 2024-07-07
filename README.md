@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Backend Developer from Raccoon City<br><br>⚡ In my free time I fight bears.</p>
+<p align="left">I'm Software Engineer from Raccoon City<br><br>⚡ In my free time I fight bears.</p>
 
 ###
 
