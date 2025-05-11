@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🐳Building Spring Boot applications with Oauth and Docker.<br>🐍Exploring Python modules.</p>
+<p align="left">☁️Building Spring Boot applications with AWS and PostgreSQL.<br>🐍Exploring Python modules.</p>
 
 ###
 
